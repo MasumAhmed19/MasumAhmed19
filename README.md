@@ -14,9 +14,6 @@ or use it.
 I'm a **CSE student at [Bangladesh University of Business & Technology (BUBT)](https://bubt.edu.bd/)** with a strong passion for **Web Development**. I specialize in **MERN stack development** and have a deep interest in **Backend Technology** and **Creative Frontend Technology**. Apart from web development, I love **problem-solving** and actively participate in **competitive programming** for past one years. I've solved many problems on **[Codeforces](https://codeforces.com/profile/deep_err0r)** and regularly take part in coding contests. Now, I'm starting my journey on **LeetCode** to further enhance my **Data Structures and Algorithms (DSA)** skills. 
 
 
-[![Masum Ahmed's stats](https://github-readme-stats.vercel.app/api?username=Rishit-dagli&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/Rishit-dagli)
-
-
 <div style="width: 100%;">
   <img
     src="https://github-readme-stats.vercel.app/api?username=masumahmed19&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true"
