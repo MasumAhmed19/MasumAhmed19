@@ -30,19 +30,28 @@ I'm a **CSE student at [Bangladesh University of Business & Technology (BUBT)](h
     style="width: 50%; max-width: 600px; height: auto; margin-bottom: 20px;"
   /> -->
 
-  <img
+  <!-- <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=masumahmed19&theme=dark&background=151515&title_color=fff&text_color=9f9f9f&icon_color=79ff97"
     alt="GitHub Streak Stats"
     style="width: 100%; max-width: 600px; height: auto; margin-bottom: 20px;"
   />
 
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=masumahmed19&theme=darkhub&column=5&margin-w=15&margin-h=15"
-    alt="GitHub Profile Trophy"
-    style="width: 100%; max-width: 600px; height: auto;"
-  />
-
   <p align="center"> <a href="https://github.com/masumahmed19/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masumahmed19&row=1&column=6&theme=onedark" alt="masumahmed19" /></a> </p>
+  
+   -->
+
+   <p align="center">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=masumahmed19&theme=dark&background=151515&title_color=fff&text_color=9f9f9f&icon_color=79ff97">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=masumahmed19&theme=dark&background=151515&title_color=fff&text_color=9f9f9f&icon_color=79ff97" alt="GitHub Streak Stats" style="width: 100%; max-width: 600px; height: auto; margin-bottom: 20px;" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/masumahmed19/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=masumahmed19&row=1&column=6&theme=onedark" alt="masumahmed19" />
+  </a>
+</p>
+
 
 
 </div>
