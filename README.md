@@ -29,6 +29,12 @@ I'm a **CSE student at [Bangladesh University of Business & Technology (BUBT)](h
 - [Website](#)<br>
 
 ---
+### Contact Information:
+- [Gmail](mailto:masum.ahmed1328@gmail.com): `masum.ahmed1328@gmail.com`
+- [X / Twitter](https://x.com/Masum_Ahmedd): `Masum_Ahmedd`
+<br>
+
+---
 ### Find me elsewhere
 <p align="left">
   <a href="https://www.codechef.com/users/deep_err0r">
