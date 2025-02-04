@@ -7,11 +7,14 @@ or use it.
 <img width="100%" src="https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/banner.jpg" alt="cover" />
 </div
 
-[![GitHub followers](https://img.shields.io/github/followers/MasumAhmed19?label=Follow&style=social/)](https://github.com/MasumAhmed19) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/masum-ahmed-61b3b8294/)
-[![X Followw](https://img.shields.io/twitter/follow/Masum_Ahmedd?style=social)](https://x.com/intent/follow?screen_name=Masum_Ahmedd) 
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/masum-ahmed-61b3b8294/)
+[![X Follow](https://img.shields.io/twitter/follow/Masum_Ahmedd?style=social)](https://x.com/intent/follow?screen_name=Masum_Ahmedd)  -->
+[![LinkedIn Follow](https://img.shields.io/badge/Follow%20on%20LinkedIn-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/masum-ahmed-61b3b8294/)  
+[![X Follow](https://img.shields.io/twitter/follow/Masum_Ahmedd?style=social)](https://x.com/intent/follow?screen_name=Masum_Ahmedd)  
 
-I am a CS Freshman at [The University of Toronto](https://web.cs.toronto.edu/). I love researching and working with Machine Learning, especially Computer Vision. Coming from the software and robotics background, I contribute extensively to/ maintain popular open-source projects like [TensorFlow](https://www.tensorflow.org/), [PyTorch](https://pytorch.org/), [Kubernetes](https://kubernetes.io/), [Kubeflow](https://www.kubeflow.org/), [PapersWithCode](https://paperswithcode.com/), [freeCodeCamp](https://www.freecodecamp.org/) among others. I also love building open-source projects (usually related to Kubernetes and Machine Learning), some of which have been pretty popular
+
+
+I'm a **CSE student at [Bangladesh University of Business & Technology (BUBT)](https://bubt.edu.bd/)** with a strong passion for **Web Development**. I specialize in **MERN stack development** and have a deep interest in **Backend Technology** and **Creative Frontend Technology**. Apart from web development, I love **problem-solving** and actively participate in **competitive programming**. I've solved many problems on **[Codeforces](https://codeforces.com/profile/deep_err0r)** and regularly take part in coding contests. Now, I'm starting my journey on **LeetCode** to further enhance my **Data Structures and Algorithms (DSA)** skills. 
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
