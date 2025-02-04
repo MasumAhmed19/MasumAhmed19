@@ -3,7 +3,7 @@ Please consider starring the repo if you find this useful in any manner
 or use it.
 -->
 
-## Hello, geeks! Nice to see you.
+## Greetings and Welcome!
 <div align="center">
 <img width="100%" src="https://raw.githubusercontent.com/MasumAhmed19/MasumAhmed19/refs/heads/main/assets/github%20cover%202.jpg" alt="cover" />
 </div
