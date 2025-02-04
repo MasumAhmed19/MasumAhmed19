@@ -17,7 +17,7 @@ I'm a **CSE student at [Bangladesh University of Business & Technology (BUBT)](h
 
 ---
 ### Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,nodejs,mongodb)](https://skillicons.dev)<br>
+[My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mongodb,firebase)<br>
 
 ---
 ### How to reach me??
@@ -39,31 +39,11 @@ I'm a **CSE student at [Bangladesh University of Business & Technology (BUBT)](h
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
   </a>
 
-</p>
+</p><br>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
+### Github Stats
 <div style="width: 100%; display: flex; justify-content: center; align-items: center; flex-direction: row;">
 
   <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masumahmed19&theme=dark" alt="shakilahmedatik" /></p>
