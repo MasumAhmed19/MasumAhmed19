@@ -36,11 +36,13 @@ I'm a **CSE student at [Bangladesh University of Business & Technology (BUBT)](h
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
   </a>
 
-  <a href="https://codeforces.com/profile/deep_err0r">
+  <!-- <a href="https://codeforces.com/profile/deep_err0r">
     <img src="https://www.svgrepo.com/show/330186/codeforces.svg" alt="codeforces" style="vertical-align:top; margin:4px">
-  </a>
+  </a> -->
   
 </p>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
 
