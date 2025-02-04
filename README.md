@@ -4,7 +4,6 @@ or use it.
 -->
 
 ## Hello, geeks! Nice to see you.
-
 <div align="center">
 <img width="100%" src="https://raw.githubusercontent.com/MasumAhmed19/MasumAhmed19/refs/heads/main/assets/github%20cover%202.jpg" alt="cover" />
 </div
@@ -12,21 +11,25 @@ or use it.
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/masum-ahmed-61b3b8294/)
 [![X Follow](https://img.shields.io/twitter/follow/Masum_Ahmedd?style=social)](https://x.com/intent/follow?screen_name=Masum_Ahmedd) -->
 
+
 ### About Me
+I'm a **CSE student at [Bangladesh University of Business & Technology (BUBT)](https://bubt.edu.bd/)** with a strong passion for **Web Development**. I specialize in **MERN stack development** and have a deep interest in **Backend Technology** and **Creative Frontend Technology**. Apart from web development, I love **problem-solving** and actively participate in **competitive programming** for past one years. I've solved many problems on **[Codeforces](https://codeforces.com/profile/deep_err0r)** and regularly take part in [coding contests](https://codeforces.com/contests/with/deep_err0r). Now, I'm starting my journey on **LeetCode** to further enhance my **Data Structures and Algorithms (DSA)** skills.<br>
 
-I'm a **CSE student at [Bangladesh University of Business & Technology (BUBT)](https://bubt.edu.bd/)** with a strong passion for **Web Development**. I specialize in **MERN stack development** and have a deep interest in **Backend Technology** and **Creative Frontend Technology**. Apart from web development, I love **problem-solving** and actively participate in **competitive programming** for past one years. I've solved many problems on **[Codeforces](https://codeforces.com/profile/deep_err0r)** and regularly take part in [coding contests](https://codeforces.com/contests/with/deep_err0r). Now, I'm starting my journey on **LeetCode** to further enhance my **Data Structures and Algorithms (DSA)** skills.
+---
+### Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,nodejs,mongodb)](https://skillicons.dev)<br>
 
+---
 ### How to reach me??
 - [Gmail](mailto:masum.ahmed1328@gmail.com)
 - [Facebook](https://www.facebook.com/masumahmed07/)
-- [x](https://x.com/Masum_Ahmedd)
+- [X / Twitter](https://x.com/Masum_Ahmedd)
 - [LinkedIn](https://www.linkedin.com/in/masum-ahmed-61b3b8294/)
 - [Daily Dev](https://app.daily.dev/masumahmed46)
-- [Website](#)
-
+- [Website](#)<br>
 
 ---
-### 📢 Find me elsewhere
+### Find me elsewhere
 <p align="left">
   <a href="https://www.codechef.com/users/deep_err0r">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
@@ -36,13 +39,8 @@ I'm a **CSE student at [Bangladesh University of Business & Technology (BUBT)](h
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
   </a>
 
-  <!-- <a href="https://codeforces.com/profile/deep_err0r">
-    <img src="https://www.svgrepo.com/show/330186/codeforces.svg" alt="codeforces" style="vertical-align:top; margin:4px">
-  </a> -->
-  
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
 
