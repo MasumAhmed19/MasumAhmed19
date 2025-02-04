@@ -66,7 +66,7 @@ I'm a **CSE student at [Bangladesh University of Business & Technology (BUBT)](h
   />
 
   <img
-    src="https://github-profile-trophy.vercel.app/?username=masumahmed19&theme=darkhub&column=3&margin-w=15&margin-h=15"
+    src="https://github-profile-trophy.vercel.app/?username=masumahmed19&theme=darkhub&column=5&margin-w=15&margin-h=15"
     alt="GitHub Profile Trophy"
     style="width: 50%; max-width: 600px; height: auto;"
   />
