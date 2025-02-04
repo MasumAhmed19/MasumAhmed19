@@ -17,12 +17,20 @@ or use it.
 I'm a **CSE student at [Bangladesh University of Business & Technology (BUBT)](https://bubt.edu.bd/)** with a strong passion for **Web Development**. I specialize in **MERN stack development** and have a deep interest in **Backend Technology** and **Creative Frontend Technology**. Apart from web development, I love **problem-solving** and actively participate in **competitive programming** for past one years. I've solved many problems on **[Codeforces](https://codeforces.com/profile/deep_err0r)** and regularly take part in [coding contests](https://codeforces.com/contests/with/deep_err0r). Now, I'm starting my journey on **LeetCode** to further enhance my **Data Structures and Algorithms (DSA)** skills.
 
 ### How to reach me?
-
 - [Gmail](mailto:masum.ahmed1328@gmail.com)
+- [Facebook](https://www.facebook.com/masumahmed07/)
 - [x](https://x.com/Masum_Ahmedd)
 - [LinkedIn](https://www.linkedin.com/in/masum-ahmed-61b3b8294/)
 - [Daily Dev](https://app.daily.dev/masumahmed46)
 - [Website](#)
+
+### How to reach me?
+<p align="left">  
+  <a href="https://app.daily.dev/masumahmed46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shakilahmedatik" height="30" width="40" /></a>  
+  <a href="https://app.daily.dev/masumahmed46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shakilahmedatik" height="30" width="40" /></a>  
+  <a href="https://app.daily.dev/masumahmed46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shakilahmedatik" height="30" width="40" /></a>  
+  <a href="https://app.daily.dev/masumahmed46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shakilahmedatik" height="30" width="40" /></a>  
+</p>
 
 <div style="width: 100%; display: flex; justify-content: center; align-items: center; flex-direction: row;">
   <!-- <img
@@ -31,7 +39,7 @@ I'm a **CSE student at [Bangladesh University of Business & Technology (BUBT)](h
     style="width: 50%; max-width: 600px; height: auto; margin-bottom: 20px;"
   /> -->
 
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masumahmed19&" alt="shakilahmedatik" /></p>
+  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masumahmed19&theme=dark" alt="shakilahmedatik" /></p>
 
   <br>
   <p align="center"> <a href="https://github.com/masumahmed19/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masumahmed19&row=1&column=6&theme=onedark" alt="masumahmed19" /></a> </p>
