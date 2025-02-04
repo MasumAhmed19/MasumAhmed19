@@ -24,18 +24,23 @@ I'm a **CSE student at [Bangladesh University of Business & Technology (BUBT)](h
 - [Daily Dev](https://app.daily.dev/masumahmed46)
 - [Website](#)
 
-### How to reach me?
-<p align="left">  
-<a href="https://dev.to/masumahmed19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="masumahmed19" height="30" width="40" /></a> 
 
-<a href="https://x/Masum_Ahmedd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Masum_Ahmedd" height="30" width="40" /></a>  
+---
+### 📢 Find me elsewhere
+<p align="left">
+  <a href="https://www.codechef.com/users/deep_err0r">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
+  </a>
+  
+  <a href="https://leetcode.com/u/deep_err0r/">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
+  </a>
 
-<a href="https://linkedin.com/in/masum-ahmed-61b3b8294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="masum-ahmed-61b3b8294" height="30" width="40" /></a> 
-
-
-<a href="https://facebook.com/masumahmed07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="masumahmed07" height="30" width="40" /></a> 
-
-</p> 
+  <a href="https://codeforces.com/profile/deep_err0r">
+    <img src="https://img.icons8.com/?size=160&id=GO78dOMqYNlA&format=png" alt="codeforces" style="vertical-align:top; margin:4px">
+  </a>
+  
+</p>
 
 
 
