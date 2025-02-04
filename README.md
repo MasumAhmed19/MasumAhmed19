@@ -2,17 +2,25 @@
 Please consider starring the repo if you find this useful in any manner
 or use it.
 -->
+# Hello, geeks! nice to see you.
 
 <div align="center">
 <img width="100%" src="https://raw.githubusercontent.com/MasumAhmed19/MasumAhmed19/refs/heads/main/assets/github%20cover.jpg" alt="cover" />
 </div
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/masum-ahmed-61b3b8294/)
-[![X Follow](https://img.shields.io/twitter/follow/Masum_Ahmedd?style=social)](https://x.com/intent/follow?screen_name=Masum_Ahmedd)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/masum-ahmed-61b3b8294/)
+[![X Follow](https://img.shields.io/twitter/follow/Masum_Ahmedd?style=social)](https://x.com/intent/follow?screen_name=Masum_Ahmedd) -->
  
 
+### About Me
 I'm a **CSE student at [Bangladesh University of Business & Technology (BUBT)](https://bubt.edu.bd/)** with a strong passion for **Web Development**. I specialize in **MERN stack development** and have a deep interest in **Backend Technology** and **Creative Frontend Technology**. Apart from web development, I love **problem-solving** and actively participate in **competitive programming** for past one years. I've solved many problems on **[Codeforces](https://codeforces.com/profile/deep_err0r)** and regularly take part in coding contests. Now, I'm starting my journey on **LeetCode** to further enhance my **Data Structures and Algorithms (DSA)** skills. 
 
+### How to reach me?
+- [Gmail]
+- [x](https://x.com/Masum_Ahmedd) 
+- [LinkedIn](https://www.linkedin.com/in/masum-ahmed-61b3b8294/) 
+- [My personal portfolio](#) 
+- [Daily Dev](https://app.daily.dev/masumahmed46)
 
 
 <div style="width: 100%; display: flex; justify-content: center; align-items: center; flex-direction: row;">
@@ -33,6 +41,7 @@ I'm a **CSE student at [Bangladesh University of Business & Technology (BUBT)](h
     alt="GitHub Profile Trophy"
     style="width: 100%; max-width: 600px; height: auto;"
   />
+
 </div>
 
 
