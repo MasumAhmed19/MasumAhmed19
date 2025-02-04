@@ -37,7 +37,7 @@ I'm a **CSE student at [Bangladesh University of Business & Technology (BUBT)](h
   </a>
 
   <a href="https://codeforces.com/profile/deep_err0r">
-    <img src="https://img.icons8.com/?size=160&id=GO78dOMqYNlA&format=png" alt="codeforces" style="vertical-align:top; margin:4px">
+    <img src="https://www.svgrepo.com/show/330186/codeforces.svg" alt="codeforces" style="vertical-align:top; margin:4px">
   </a>
   
 </p>
