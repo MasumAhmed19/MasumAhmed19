@@ -4,7 +4,7 @@ or use it.
 -->
 
 <div align="center">
-<img width="100%" src="" alt="cover" />
+<img width="100%" src="https://raw.githubusercontent.com/MasumAhmed19/MasumAhmed19/refs/heads/main/assets/github%20cover.jpg" alt="cover" />
 </div
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/masum-ahmed-61b3b8294/)
