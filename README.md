@@ -20,3 +20,38 @@ I'm a **CSE student at [Bangladesh University of Business & Technology (BUBT)](h
     alt="GitHub Stats"
   />
 </div>
+
+<div style="width: 100%;">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=masumahmed19&theme=dark&background=151515&title_color=fff&text_color=9f9f9f&icon_color=79ff97"
+    alt="GitHub Streak Stats"
+    style="width: 100%; max-width: 100%; height: auto;"
+  />
+</div>
+
+<div style="width: 100%;">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=masumahmed19&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"
+    alt="Top Languages"
+    style="width: 100%; max-width: 100%; height: auto;"
+  />
+</div>
+
+
+<div style="width: 100%;">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=masumahmed19&theme=darkhub&column=3&margin-w=15&margin-h=15"
+    alt="GitHub Profile Trophy"
+    style="width: 100%; max-width: 100%; height: auto;"
+  />
+</div>
+
+
+
+<div style="width: 100%;">
+  <img
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=masumahmed19&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"
+    alt="Wakatime Stats"
+    style="width: 100%; max-width: 100%; height: auto;"
+  />
+</div>
