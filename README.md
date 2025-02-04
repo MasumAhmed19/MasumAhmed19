@@ -19,17 +19,17 @@ I'm a **CSE student at [Bangladesh University of Business & Technology (BUBT)](h
 ### Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mongodb,firebase)]()<br>
 
----
+<!-- ---
 ### How to reach me??
 - [Gmail](mailto:masum.ahmed1328@gmail.com)
 - [Facebook](https://www.facebook.com/masumahmed07/)
 - [X / Twitter](https://x.com/Masum_Ahmedd)
 - [LinkedIn](https://www.linkedin.com/in/masum-ahmed-61b3b8294/)
 - [Daily Dev](https://app.daily.dev/masumahmed46)
-- [Website](#)<br>
+- [Website](#)<br> -->
 
 ---
-### Contact Information:
+### How to reach me??
 - Gmail: `masum.ahmed1328@gmail.com`
 - Linkedin: `linkedin.com/in/masum-ahmed-61b3b8294/`
 - X / Twitter: `x.com/Masum_Ahmedd`
