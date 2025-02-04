@@ -25,13 +25,7 @@ I'm a **CSE student at [Bangladesh University of Business & Technology (BUBT)](h
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=masumahmed19&theme=dark&background=151515&title_color=fff&text_color=9f9f9f&icon_color=79ff97"
     alt="GitHub Streak Stats"
-    style="width: 50%; max-width: 600px; height: auto; margin-bottom: 20px;"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=masumahmed19&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"
-    alt="Top Languages"
-    style="width: 50%; max-width: 600px; height: auto; margin-bottom: 20px;"
+    style="width: 100%; max-width: 600px; height: auto; margin-bottom: 20px;"
   />
 
   <img
