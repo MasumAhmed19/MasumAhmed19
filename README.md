@@ -31,12 +31,9 @@ I'm a **CSE student at [Bangladesh University of Business & Technology (BUBT)](h
     style="width: 50%; max-width: 600px; height: auto; margin-bottom: 20px;"
   /> -->
 
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=masumahmed19&theme=dark&background=151515&title_color=fff&text_color=9f9f9f&icon_color=79ff97"
-    alt="GitHub Streak Stats"
-    style="width: 100%; max-width: 600px; height: auto; margin-bottom: 20px;"
-  />
+  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masumahmed19&" alt="shakilahmedatik" /></p>
 
+  <br>
   <p align="center"> <a href="https://github.com/masumahmed19/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masumahmed19&row=1&column=6&theme=onedark" alt="masumahmed19" /></a> </p>
 
 </div>
