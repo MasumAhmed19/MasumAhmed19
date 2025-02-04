@@ -2,10 +2,10 @@
 Please consider starring the repo if you find this useful in any manner
 or use it.
 -->
-# Hello, geeks! nice to see you.
+## Hello, geeks! nice to see you.
 
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/MasumAhmed19/MasumAhmed19/refs/heads/main/assets/github%20cover.jpg" alt="cover" />
+<img width="100%" src="https://raw.githubusercontent.com/MasumAhmed19/MasumAhmed19/refs/heads/main/assets/github%20cover%202.jpg" alt="cover" />
 </div
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/masum-ahmed-61b3b8294/)
