@@ -30,9 +30,9 @@ I'm a **CSE student at [Bangladesh University of Business & Technology (BUBT)](h
 
 ---
 ### Contact Information:
-- [Gmail]: `masum.ahmed1328@gmail.com`
-- [LinkedIN]: `masum-ahmed-61b3b8294`
-- [X / Twitter]: `@Masum_Ahmedd`
+- Gmail: `masum.ahmed1328@gmail.com`
+- LinkedIN: `masum-ahmed-61b3b8294`
+- X / Twitter: `@Masum_Ahmedd`
 <br>
 
 ---
