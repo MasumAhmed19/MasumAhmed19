@@ -2,7 +2,7 @@
 Please consider starring the repo if you find this useful in any manner
 or use it.
 -->
-## Hello, geeks! nice to see you.
+## Hello, geeks! Nice to see you.
 
 <div align="center">
 <img width="100%" src="https://raw.githubusercontent.com/MasumAhmed19/MasumAhmed19/refs/heads/main/assets/github%20cover%202.jpg" alt="cover" />
@@ -13,14 +13,14 @@ or use it.
  
 
 ### About Me
-I'm a **CSE student at [Bangladesh University of Business & Technology (BUBT)](https://bubt.edu.bd/)** with a strong passion for **Web Development**. I specialize in **MERN stack development** and have a deep interest in **Backend Technology** and **Creative Frontend Technology**. Apart from web development, I love **problem-solving** and actively participate in **competitive programming** for past one years. I've solved many problems on **[Codeforces](https://codeforces.com/profile/deep_err0r)** and regularly take part in coding contests. Now, I'm starting my journey on **LeetCode** to further enhance my **Data Structures and Algorithms (DSA)** skills. 
+I'm a **CSE student at [Bangladesh University of Business & Technology (BUBT)](https://bubt.edu.bd/)** with a strong passion for **Web Development**. I specialize in **MERN stack development** and have a deep interest in **Backend Technology** and **Creative Frontend Technology**. Apart from web development, I love **problem-solving** and actively participate in **competitive programming** for past one years. I've solved many problems on **[Codeforces](https://codeforces.com/profile/deep_err0r)** and regularly take part in [coding contests](https://codeforces.com/contests/with/deep_err0r). Now, I'm starting my journey on **LeetCode** to further enhance my **Data Structures and Algorithms (DSA)** skills. 
 
 ### How to reach me?
-- [Gmail]
+- [Gmail](mailto:masum.ahmed1328@gmail.com)
 - [x](https://x.com/Masum_Ahmedd) 
 - [LinkedIn](https://www.linkedin.com/in/masum-ahmed-61b3b8294/) 
-- [My personal portfolio](#) 
 - [Daily Dev](https://app.daily.dev/masumahmed46)
+- [Website](#) 
 
 
 <div style="width: 100%; display: flex; justify-content: center; align-items: center; flex-direction: row;">
@@ -41,6 +41,9 @@ I'm a **CSE student at [Bangladesh University of Business & Technology (BUBT)](h
     alt="GitHub Profile Trophy"
     style="width: 100%; max-width: 600px; height: auto;"
   />
+
+  <p align="center"> <a href="https://github.com/masumahmed19/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masumahmed19&row=1&column=6&theme=onedark" alt="masumahmed19" /></a> </p>
+
 
 </div>
 
