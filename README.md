@@ -17,7 +17,7 @@ I'm a **CSE student at [Bangladesh University of Business & Technology (BUBT)](h
 
 ---
 ### Languages and Tools
-[My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mongodb,firebase)<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mongodb,firebase)]()<br>
 
 ---
 ### How to reach me??
