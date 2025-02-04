@@ -9,8 +9,10 @@ or use it.
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/masum-ahmed-61b3b8294/)
 [![X Follow](https://img.shields.io/twitter/follow/Masum_Ahmedd?style=social)](https://x.com/intent/follow?screen_name=Masum_Ahmedd)  -->
-[![LinkedIn Follow](https://img.shields.io/badge/Follow%20on%20LinkedIn-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/masum-ahmed-61b3b8294/)  
-[![X Follow](https://img.shields.io/twitter/follow/Masum_Ahmedd?style=social)](https://x.com/intent/follow?screen_name=Masum_Ahmedd)  
+[![LinkedIn Follow](https://img.shields.io/badge/Follow%20on%20LinkedIn-0077B5?style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/masum-ahmed-61b3b8294/)
+
+[![X Follow](https://img.shields.io/twitter/follow/Masum_Ahmedd?style=social)](https://x.com/intent/follow?screen_name=Masum_Ahmedd)
+ 
 
 
 
